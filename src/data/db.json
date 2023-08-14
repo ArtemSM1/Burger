@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "burger1.jpg",
+        "img_st": "star.png",
+        "img_st_half": "star_half.png",
+        "title": "CRISPY CHICKEN",
+        "desc": "Chicken breast, chilli sauce, tomatoes, pickles, coleslaw",
+        "price": "$8.50"
+      },
+      {
+        "id": 2,
+        "img": "burger2.jpg",
+        "img_st": "star.png",
+        "img_st_half": "star_half.png",
+        "title": "ULTIMATE BACON",
+        "desc": "House beef patty, cheddar cheese, bacon, onion, mustard",
+        "price": "$9.99"
+      },
+      {
+        "id": 3,
+        "img": "burger3.jpg",
+        "img_st": "star.png",
+        "img_st_half": "star_half.png",
+        "title": "BLACK SHEEP",
+        "desc": "American cheese, tomato relish, avocado, lettuce, red onion",
+        "price": "$9.75"
+      },
+      {
+        "id": 4,
+        "img": "burger4.jpg",
+        "img_st": "star.png",
+        "img_st_half": "star_half.png",
+        "title": "DOUBLE BURGER",
+        "desc": "2 beef patties, cheddar cheese, mustard, pickles, tomatoes",
+        "price": "$10.35"
+      },        
+      {
+        "id": 5,
+        "img": "burger5.jpg",
+        "img_st": "star.png",
+        "img_st_half": "star_half.png",
+        "title": "TURKEY BURGER",
+        "desc": "Turkey, cheddar cheese, onion, lettuce, tomatoes, pickles",
+        "price": "$8.95"
+      },
+      {
+        "id": 6,
+        "img": "burger6.jpg",
+        "img_st": "star.png",
+        "img_st_half": "star_half.png",
+        "title": "SMOKEY HOUSE",
+        "desc": "Beef patty, cheddar cheese, onion, lettuce, tomatoes, pickles",
+        "price": "$9.50"
+      },
+      {
+        "id": 7,
+        "img": "burger7.jpg",
+        "img_st": "star.png",
+        "img_st_half": "star_half.png",
+        "title": "VEGAN BURGER",
+        "desc": "Beef, cheddar cheese, ketchup, mustard, pickles, onion",
+        "price": "$7.95"
+      },
+      {
+        "id": 8,
+        "img": "burger8.jpg",
+        "img_st": "star.png",
+        "img_st_half": "star_half.png",
+        "title": "VEGAN BURGER",
+        "desc": "Mushroom patty, vegan cheese, lettuce, tomatoes, avocado",
+        "price": "$8.95"
+      }
+]

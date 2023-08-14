@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.item_img {
+  max-width: 265px;
+  max-height: 235px;
+  transition: all 1s ease 0s;
+  overflow: hidden;
+}
+
+.item_img > img {
+  max-width: 265px;
+  max-height: 235px;
+  border-radius: 7px 7px 0px 0px;
+  transition: all 1s ease 0s;
+}
+
+.ratin {
+  max-width: 200px;
+  max-height: 24px;
+}
+
+.ratin > img {
+  width: 19px;
+  height: 19px;
+}
+
+.item_title {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin: 5px 0px 10px 0px;
+}
+
+.item_p {
+  color: #757575;
+  margin: 0px 0px 15px 0px;
+  font-size: 15px;
+}
+
+.cena {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #642f21;
+  padding: 7px 12px;
+  color: #f7be27;
+  border-radius: 4px;
+  width: 60px;
+  height: 25px;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.btn-add-to-cart {
+  display: inline-flex;
+  margin-left: 30px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.carting {
+  opacity: 1;   /* ПОМЕНЯТЬ НА 0 ПРи ховер */
+  text-decoration: none;
+  text-decoration: none;
+  background-color: #f7be27;
+  padding: 6px 12px;
+  border-radius: 4px;
+  color: #000;
+  font-weight: 700;
+  font-size: 14px;
+  transition: 1s;
+}
+
+.item {
+  width: 265px;
+  margin-bottom: 15px;
+  max-width: 265px;
+  max-height: 460px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(229, 229, 229);
+  border-image: initial;
+  border-radius: 7px;
+}
+
+.item_container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 80%;
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sect {
+  padding: 100px 0px 70px 0px;
+}
+
+.sect_content {
+  padding: 25px 20px;
+  max-width: 265px;
+  max-height: 210px;
+}
